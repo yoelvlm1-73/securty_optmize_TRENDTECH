@@ -40,7 +40,7 @@ Decisión: ¿Instalación conforme? Sí: Entregar y firmar acta de entrega (paso
 
 ## 4. Diagrama BPMN<br>
 
-![BPMN proceso actual](../assets/BPMN_procesoactual.png)<br>
+![BPMN proceso actual](../assets/BPMN_proceso_actuall.drawio)<br>
 
 
 ## 5. Puntos críticos<br>
