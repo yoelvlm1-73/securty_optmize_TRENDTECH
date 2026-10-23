@@ -23,4 +23,4 @@ Semana 6 | 13/11/2026 | Exposición ante jurados |<br>
 <br> 
 Tablero y cronograma <br>
 ![Tablero del proyecto](../assets/roadmap.png) <br>
-![Diagrama de Gantt](../assets/diagrama de gantt.png) <br>
+![Diagrama de Gantt](../assets/diagramagantt.png) <br>
