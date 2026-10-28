@@ -68,7 +68,7 @@
    - Respuesta: se hizo un conteo manual de cada piesa, se anoto en papel, y luego se paso a un exel
 
 8. ¿Qué hace cuando algo sale mal durante el proceso de inventario?
-   - Respuesta: 
+   - Respuesta: intentar de buscar una solucion rapida <br>
 
 **Dolores**
 
@@ -76,24 +76,23 @@
    - Respuesta: El conteo manual y físico del inventario genera demoras y existe el riesgo de perder información. Respuesta basada en la descripción inicial del problema; pendiente de validar con el entrevistado.
 
 10. ¿Cuándo fue la última vez que tuvo un problema con el inventario y qué pasó?
-    - Respuesta: 
+    - Respuesta: Hace 2 semanas, no se sabia cuanto material había y hubo retraso en los pedidos <br> 
 
 **Ganancias**
 
 11. Si el inventario funcionara perfectamente, ¿qué cambiaría en su día?
-    - Respuesta:
+    - Respuesta: menos carga laboral y resolvería los problemas anteriormente mencionados <br>
 
 12. ¿Qué le ayudaría a ahorrar tiempo, dinero o esfuerzo en el inventario?
-    - Respuesta: Pendiente de confirmar.
+    - Respuesta: Automatización fácil de comprender <br>
 
 **Proceso actual en Multy Security S.A.S.** (las escribe el equipo)
 
 13. ¿Cómo se realiza actualmente el conteo y registro de los materiales que entran y salen del almacén, y cómo se identifica a qué área de trabajo pertenece cada material?
-    - Respuesta: Pendiente de confirmar.
+    - Respuesta: El coteo y registo se hace manualmente usando hojas de papel / por definir <br>
 
 14. ¿Qué dificultades se presentan al comparar el registro manual con las existencias físicas del almacén, y cómo afectan la disponibilidad de materiales, la información y el tiempo de trabajo?
-    - Respuesta: Pendiente de confirmar.
-
+    - Respuesta: las dificultades se dan en la demora y verificación de las piezas entre lo que dice el inventario manual y el inventario físico afectando el tiempo de producción ya que lo aumenta, ademas una posible perdida economica al no saber si esta el material que termina comprándose 2 veces o en la perdida de este 
 ## 4. Resultados
 
 - [Resultados de la entrevista](../assets/resultados-entrevista.md)
