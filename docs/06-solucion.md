@@ -1,5 +1,9 @@
-06 · Solución y flujo de información
-Solución propuesta
+06 · Solución y flujo de información <br>
+<br>
+![Flujo de información](../assets/flujo-de-informacion-security.png) <br>
+<br>
+Solución propuesta <br>
+<br>
 Qué cambia en el proceso con la solución (máximo 5 líneas): El conteo manual y físico en papel y Excel deja de ser la única fuente de información del inventario. Multy Security S.A.S. tendrá una base de datos del almacén donde se registran las entradas y salidas de materiales por área de trabajo. Cada movimiento actualiza las existencias y queda guardado en un historial. Antes de iniciar la producción, Orlando Morales consulta qué material hay y, si falta, se solicita al proveedor. Así se reducen los retrasos en los pedidos y el riesgo de comprar un material dos veces o perderlo.
 
 Flujo de información
