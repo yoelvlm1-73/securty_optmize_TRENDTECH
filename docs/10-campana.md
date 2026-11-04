@@ -36,7 +36,7 @@ Usamos verde oscuro y azul, como pidió el equipo, junto con un neutro claro par
 
 El logo muestra una puerta de seguridad abierta por la que entra una base de datos. Representa una bóveda de datos: la información del almacén ingresa a un espacio protegido y controlado.
 
-![Logo](../assets/hoja-stickers.png)
+![Logo](../assets/logo.png)
 
 ## 5. Stickers de lanzamiento
 
@@ -44,5 +44,5 @@ Para el lanzamiento entregaremos a los asistentes una hoja de **12 stickers de 5
 
 El sticker de 5 × 5 cm permite pegarlo en una libreta, un computador o un casillero. Así el gerente tiene a mano el acceso a la solución. Los colores de los stickers son los de la paleta: fondo claro, textos en verde oscuro y QR en azul.
 
-![Hoja de stickers](../assets/campana/hoja-stickers.png)
+![Hoja de stickers](../assets/hoja-stickers.png)
 
