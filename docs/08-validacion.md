@@ -60,6 +60,29 @@ Consideramos validada la hipótesis si se cumplen estos cuatro criterios. Si no 
 ## 4. Resultados
 
 ### Qué observamos
+GUION DEL VIDEO (duración aproximada: 2 min 30 s)
+
+0:00 – 0:20 | Presentación
+Nos presentamos como equipo Multy security: Yoel Morales, Jerónimo Triviño y Javier Salamanca. Explicamos que el problema es el inventario manual del almacén de Multy Security S.A.S., con conteo en papel, demoras y riesgo de perder información. Mostramos brevemente la pantalla del prototipo v0.1.
+
+0:20 – 0:45 | Hipótesis y método
+Explicamos la hipótesis: Orlando Morales podrá mejorar el control del inventario si registra entradas y salidas, consulta existencias e identifica los movimientos por área de trabajo. Indicamos que usamos una prueba de usabilidad porque el prototipo ya se puede operar.
+
+0:45 – 1:05 | Preparación de la prueba
+Mostramos el lugar y el computador de la empresa donde está instalado el prototipo. Indicamos la fecha, el 7 de noviembre, y los roles: facilitador, observador y registro técnico. Pedimos la autorización de Orlando para grabar.
+
+1:05 – 1:45 | Las tres tareas
+Mostramos a Orlando realizando cada tarea:
+- Tarea 1: registrar una entrada de material con cantidad y área.
+- Tarea 2: registrar una salida de material.
+- Tarea 3: consultar existencias e historial de movimientos.
+Se ve cómo el facilitador da las instrucciones sin ayudar y cómo el observador toma notas.
+
+1:45 – 2:10 | Qué observamos y qué dijo el usuario
+Resumimos qué tareas completó, cuánto tardó y dónde dudó. Incluimos una o dos frases textuales de Orlando sobre la facilidad de uso y la utilidad de la información.
+
+2:10 – 2:30 | Qué vamos a cambiar y cierre
+Explicamos los ajustes que haremos a la v0.1 según lo observado. Cerramos con el siguiente paso: la semana de uso en la empresa y el seguimiento de los resultados. Agradecemos a Orlando Morales y a Multy Security S.A.S.
 
 ### Qué dijo el usuario
 
