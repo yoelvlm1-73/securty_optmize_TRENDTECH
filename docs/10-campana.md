@@ -36,7 +36,7 @@ Usamos verde oscuro y azul, como pidió el equipo, junto con un neutro claro par
 
 El logo muestra una puerta de seguridad abierta por la que entra una base de datos. Representa una bóveda de datos: la información del almacén ingresa a un espacio protegido y controlado.
 
-![Logo](../assets/logo.png)
+![Logo](../assets/hoja-stickers.png)
 
 ## 5. Stickers de lanzamiento
 
