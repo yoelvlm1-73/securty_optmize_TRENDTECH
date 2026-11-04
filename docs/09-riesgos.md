@@ -43,7 +43,7 @@ Un material o una cantidad mal digitados generan existencias que no coinciden co
 - **Seguimiento:** registramos las diferencias encontradas en cada conteo y buscamos que disminuyan durante la prueba.
 - **Responsable y fecha:** UX, 12 nov.
 
-![Mapa de calor de riesgos](../assets/(matriz-riesgos.png)
+![Mapa de calor de riesgos](../assets/matriz-riesgos.png)
 
 ### Cómo leer el mapa de calor
 
