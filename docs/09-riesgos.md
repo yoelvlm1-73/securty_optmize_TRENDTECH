@@ -48,7 +48,7 @@ Un material o una cantidad mal digitados generan existencias que no coinciden co
 ### Cómo leer el mapa de calor
 
 Cada riesgo aparece en la casilla donde se cruzan qué tan probable es que ocurra (de abajo hacia arriba) y cuánto daño haría si ocurre (de izquierda a derecha). El color va del verde, donde podemos estar tranquilos, al rojo, donde hay que actuar ya. En nuestro proyecto, lo que quedó más arriba y a la derecha es la baja adopción del registro en la base y el acceso no autorizado a los datos. Preocupan porque la solución solo funciona si el equipo de Multy Security registra cada movimiento, y porque toda la información del inventario queda en la nube. Por eso empezamos con la capacitación y la guía de uso, y con los usuarios por rol y la verificación en dos pasos. Cerca de esa zona está también el de registros erróneos de entradas y salidas, que atendemos con campos obligatorios y un conteo físico semanal. En la zona verde quedó solo el de costos por encima de los 32 USD: el plan de nube y el dominio ya están definidos, así que basta con revisar el gasto al cierre de la prueba.
-
+matriz-riesgos.png
 ## Conclusión
 
 Los riesgos principales dependen más de las personas y del control de accesos que de la tecnología, y las acciones propuestas caben en el presupuesto de 32 dólares.
