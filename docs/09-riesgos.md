@@ -4,8 +4,8 @@ En este documento identificamos y valoramos los riesgos de implementar en Multy 
 
 Calculamos el nivel de cada riesgo como probabilidad (1-5) × impacto (1-5). Lo clasificamos así: 1-4 bajo, 5-9 medio, 10-16 alto y 20-25 crítico.
 
-## Matriz de riesgos
-
+## Matriz de riesgos<br>
+<br>
 | ID | Riesgo | Categoría | P | I | Nivel | Tratamiento | Acción | Responsable | Fecha |
 |----|--------|-----------|---|---|-------|-------------|--------|-------------|-------|
 | R1 | Caída del servicio en la nube | Tecnológico | 2 | 3 | 6 (Medio) | Mitigar | Exportar cada semana una copia de la base de datos y definir el procedimiento para seguir registrando los movimientos en una hoja temporal mientras el servicio se restablece. | PR | 14 nov |
