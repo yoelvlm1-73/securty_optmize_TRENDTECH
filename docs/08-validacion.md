@@ -88,4 +88,4 @@ Explicamos los ajustes que haremos a la v0.1 según lo observado. Cerramos con e
 
 ### Qué vamos a cambiar
 
-Video: [ENLACE]
+Video:(https://drive.google.com/file/d/1d2nPzlT5_9R5wEnl7isfoCdALmP-N3yk/view?usp=drive_link)
